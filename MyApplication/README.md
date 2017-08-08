@@ -1,4 +1,6 @@
-# Accelerometer App using SGFilter 
+# Assignment 1
+
+## Accelerometer App using SGFilter 
 This repository contains the source code for the Accelerometer app with SGolay Filtering
 This app is created for an assignment of Programmable and Embedded Systems.
 ## Dependencies Used
