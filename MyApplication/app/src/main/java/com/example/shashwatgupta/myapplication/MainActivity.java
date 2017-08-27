@@ -215,7 +215,6 @@ public class MainActivity extends Activity implements SensorEventListener {
             seriesFil.appendData(new DataPoint(counter, smooth[nl]), true, maxData);
             seriesAll.appendData(new DataPoint(counter, queue.get(nl)), true, maxData);
         }
-
         vibrate();
 
     }
