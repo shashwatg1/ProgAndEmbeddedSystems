@@ -7,17 +7,17 @@ This app is created for an assignment of Programmable and Embedded Systems.
 
 ## Screenshots:
 
-<img src="Screenshots/01.png" width="40%">
+<img src="Screenshots/Screenshot_1.png" width="40%">
 
-<img src="Screenshots/02.png" width="40%">
+<img src="Screenshots/Screenshot_2.png" width="40%">
 
-<img src="Screenshots/03.png" width="40%">
+<img src="Screenshots/Screenshot_3.png" width="40%">
 
-<img src="Screenshots/04.png" width="40%">
+<img src="Screenshots/Screenshot_4.png" width="40%">
 
-<img src="Screenshots/05.png" width="40%">
+<img src="Screenshots/Screenshot_5.png" width="40%">
 
-<img src="Screenshots/06.png" width="40%">
+<img src="Screenshots/Screenshot_6.png" width="40%">
 
 ## Author
 
