@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Environmental Sensor</string>
+    <string name="accelerometer_x">Accelerometer X</string>
+    <string name="accelerometer_y">Accelerometer Y</string>
+    <string name="accelerometer_z">Accelerometer Z</string>
+    <string name="gyroscope_x">Gyroscope X</string>
+    <string name="gyroscope_y">Gyroscope Y</string>
+    <string name="gyroscope_z">Gyroscope Z</string>
+    <string name="magnetometer_x">Magnetometer X</string>
+    <string name="magnetometer_y">Magnetometer Y</string>
+    <string name="magnetometer_z">Magnetometer Z</string>
+    <string name="textview">TextView</string>
+</resources>
